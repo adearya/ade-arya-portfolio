@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Ade Arya Bimantara</title>
+
+        <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    </head>
+
+    <body>
+        <main>
+            <!-- Section Home Start -->
+            <section id="home">
+                <div class="container mx-auto p-8">
+                    <div class="flex flex-wrap">
+                        <div class="sm:w-full md:w-auto lg:w-auto self-center px-4">
+                            <h1 class="text-base font-semibold text-fuchsia-400">Hi There!, I'm <span class="block font-bold mt-1 text-4xl text-fuchsia-800">Ade Arya Bimantara</span></h1>
+                            
+                            <h2 class="font-medium text-slate-600 text-lg">Software Engineering</h2>
+                            
+                            <p class="font-medium text-slate-400 my-5">
+                                Programming is the art of telling another human being what one wants the computer to do.
+                                <span class="block text-slate-600">- Donald Ervin Knuth</span>
+                            </p>
+
+                            <a class="text-base font-semibold text-white bg-fuchsia-400 py-3 px-8 rounded-full hover:shadow-lg hover:opacity-80 transition-duration-300 ease-in-out" href="">
+                                Let's Talk
+                            </a>
+                        </div>
+
+                        <div class="sm:w-full md:w-auto lg:w-auto self-end px-4">
+                            <div class="relative">
+                                <img src="{{ '/assets/my_photo-removebg.png' | relative_url }}" alt="Ade Arya Bimantara" class="max-w-full mx-auto">
+
+                                <span class="absolute -bottom-0 -z-10 left-1/2 -translate-x-1/2">
+                                    <svg width="400" height="400" viewBox="-20 0 200 200" xmlns="http://www.w3.org/2000/svg">
+                                      <path fill="#E879F9" d="M46.8,-12.9C53.5,5.5,46.9,30.5,28.3,45.6C9.7,60.7,-21,65.9,-43.2,51.6C-65.5,37.3,-79.4,3.5,-70.8,-17.5C-62.1,-38.4,-31.1,-46.6,-5.5,-44.8C20,-43,40,-31.2,46.8,-12.9Z" transform="translate(100 100) scale(1.2)" />
+                                    </svg>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Section Home End -->
+        </main>
+    </body>
+</html>

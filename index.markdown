@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: landing_page 
-title: "Ade Arya Bimantara"
+my_name: "Ade Arya Bimantara"
 ---

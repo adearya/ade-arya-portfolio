@@ -1,15 +1,15 @@
 <a name="readme-top"></a>
 
-<!-- template_name_project -->
+<!-- ade-arya-portfolio -->
 <br />
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adearya/template_name_project/HEAD/raw/images/template_name_logo" alt="Readme Logo" width="80" height="80">
+<img src="https://raw.githubusercontent.com/adearya/ade-arya-portfolio/HEAD/raw/images/portfolio_logo.jpeg" alt="Readme Logo" width="80" height="80">
 
-<h3 align="center">template_title</h3>
+<h3 align="center">Ade Arya Bimantara</h3>
     <p align="center">
-        template_argument
+        I created this portfolio to present my work and skills in a structured and visually appealing manner while leveraging GitHub Pages for easy deployment.
     </p>
 </div>
 
@@ -38,26 +38,31 @@
 
 ## About The Project
 
-![App Screenshot](https://raw.githubusercontent.com/adearya/template_name_project/HEAD/raw/images/template_name_screenshot)
+![App Screenshot](https://raw.githubusercontent.com/adearya/ade-arya-portfolio/HEAD/raw/images/desktop_screenshot.png)
 
 <p align="center">
     template_about
 </p>
 
 ### Built With
+
+![Jekyll](https://img.shields.io/badge/Jekyll-ffffff?logo=jekyll&style=for-the-badge&color=00ff00&logoColor=ffffff)<br />
+![HTML5](https://img.shields.io/badge/HTML5-ffffff?logo=html&style=for-the-badge&color=0000ff&logoColor=ffffff)<br />
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?logo=tailwind&style=for-the-badge&color=00ffff&logoColor=ffffff)<br />
 <!-- add_built_with -->
 
 
 ## Getting Started
 
 <p>
-    template_description
+    Visitors can explore projects, skills, and contact information in an intuitive layout. The website is easily customizable, allowing modifications to content and styling through Jekyll templates and TailwindCSS utility classes.
 </p>
 
 ### Prerequisites
 <p>Before getting started, ensure that your system meets all the necessary requirements to run this project smoothly. Below is a list of prerequisites that need to be installed.</p>
 
 <ul>
+	<li>jekyll</li>
     <!-- add_prerequisites -->
 </ul>
 
@@ -66,11 +71,11 @@
 
 Clone the repo
 ```sh
-git clone https://github.com/adearya/template_name_project.git
+git clone https://github.com/adearya/ade-arya-portfolio.git
 ```
 Change directory
 ```sh
-cd template_name_project/
+cd ade-arya-portfolio/
 ```
 <!-- add_installation -->
 
@@ -79,6 +84,15 @@ cd template_name_project/
 
 <p>Once the installation is complete, refer to this section for basic usage instructions. Make sure all prerequisites are met before running the application.</p>
 
+
+To run jekyll server
+```sh
+jekyll serve
+```
+Open Browser
+```sh
+localhost:4000
+```
 <!-- add_usage -->
 
 

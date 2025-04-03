@@ -101,7 +101,7 @@ http://localhost:4000
 
 <div>
     <a href="https://linkedin.com/in/ade-arya-bimantara">
-        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
 </div>
 <div>

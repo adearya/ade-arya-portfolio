@@ -84,7 +84,7 @@ cd ade-arya-portfolio/
 <p>Once the installation is complete, refer to this section for basic usage instructions. Make sure all prerequisites are met before running the application.</p>
 
 
-For build and run jekyll web server
+For build and run this project
 ```sh
 jekyll serve
 ```

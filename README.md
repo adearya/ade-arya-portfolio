@@ -41,7 +41,7 @@
 ![App Screenshot](https://raw.githubusercontent.com/adearya/ade-arya-portfolio/HEAD/raw/images/desktop_screenshot.png)
 
 <p align="center">
-    template_about
+    This portfolio was developed with Jekyll for static site generation, TailwindCSS for styling, and HTML5 for structure. The design follows a minimalist cyan aesthetic, ensuring a visually appealing and responsive experience across devices. The site is published at adearya.github.io/ade-arya-portfolio.
 </p>
 
 ### Built With

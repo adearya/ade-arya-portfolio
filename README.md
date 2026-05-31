@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/adearya/ade-arya-portfolio/HEAD/raw/images/github_user_logo.jpeg" alt="Github User Logo" width="80" height="80">
 
-<h3 align="center">Ade Arya Bimantara - Portfolio</h3>
+<h3 align="center">Ade Arya Bimantara - Portfolio!</h3>
     <p align="center">
         I created this portfolio to present my work and skills in a structured and visually appealing manner while leveraging GitHub Pages for easy deployment.
     </p>
